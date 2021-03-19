@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         JVC DarkMode
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  DarkMode JVC
 // @author       LittleTherence
+// @downloadURL  https://raw.githubusercontent.com/TherenceFrn/JVC-DarkMode/main/script.js
+// @updateURL    https://raw.githubusercontent.com/TherenceFrn/JVC-DarkMode/main/script.js
 // @match        https://www.jeuxvideo.com/forums/*
 // @match        https://m.jeuxvideo.com/forums/*
 // @match        https://m.jeuxvideo.com/forums/*
